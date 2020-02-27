@@ -1,0 +1,18 @@
+{
+  "name": "awesome-collections",
+  "version": "1.0.0",
+  "description": "awesome-collections",
+  "scripts": {
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "keywords": [
+    "collections",
+    "vuepress"
+  ],
+  "author": "zxf4399",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
