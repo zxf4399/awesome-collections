@@ -4,6 +4,8 @@ A collection of awesome things.
 
 - [Node.js](#node.js)
   - [Command-line apps](#command-line-apps)
+- [Terminal](#terminal)
+  - [Zsh](#zsh)
 
 ---
 
@@ -20,6 +22,13 @@ A collection of awesome things.
 
 ## Terminal
 
+> A terminal can mean either a computer or other electronic terminal, such as
+> one used with a POS system.
+
+### Zsh
+
+- [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy
+  tab completion feature of z jump around command.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful
   community-driven (with 1800+ contributors) framework for managing your zsh
   configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub,
@@ -27,3 +36,5 @@ A collection of awesome things.
   morning, and an auto-update tool so that makes it easy to keep up with the
   latest updates from the commun…
 - [z](https://github.com/rupa/z) - z - jump around
+- [zplug](https://github.com/zplug/zplug) - 🌺 A next-generation plugin manager
+  for zsh
