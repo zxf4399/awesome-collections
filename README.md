@@ -17,3 +17,13 @@ A collection of awesome things.
   globs.
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run
   multiple npm-scripts in parallel or sequential.
+
+## Terminal
+
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful
+  community-driven (with 1800+ contributors) framework for managing your zsh
+  configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub,
+  docker, homebrew, node, php, python, etc), over 140 themes to spice up your
+  morning, and an auto-update tool so that makes it easy to keep up with the
+  latest updates from the commun…
+- [z](https://github.com/rupa/z) - z - jump around
