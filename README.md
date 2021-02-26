@@ -6,6 +6,8 @@ A collection of awesome things.
   - [Command-line apps](#command-line-apps)
 - [Terminal](#terminal)
   - [Zsh](#zsh)
+- [React](#react)
+  - [React Components](#react-components)
 
 ---
 
@@ -16,9 +18,9 @@ A collection of awesome things.
 ### Command-line apps
 
 - [cpx](https://github.com/mysticatea/cpx) - A cli tool to watch and copy file
-  globs.
+  globs
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run
-  multiple npm-scripts in parallel or sequential.
+  multiple npm-scripts in parallel or sequential
 
 ## Terminal
 
@@ -28,7 +30,7 @@ A collection of awesome things.
 ### Zsh
 
 - [fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy
-  tab completion feature of z jump around command.
+  tab completion feature of z jump around command
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful
   community-driven (with 1800+ contributors) framework for managing your zsh
   configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub,
@@ -38,3 +40,12 @@ A collection of awesome things.
 - [z](https://github.com/rupa/z) - z - jump around
 - [zplug](https://github.com/zplug/zplug) - 🌺 A next-generation plugin manager
   for zsh
+
+## React
+
+> JavaScript Library for building User Interfaces
+
+### React Components
+
+- [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your
+  component, image or anything matters the performance
