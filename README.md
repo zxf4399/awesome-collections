@@ -49,3 +49,10 @@ A collection of awesome things.
 
 - [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your
   component, image or anything matters the performance
+
+## Chrome DevTools
+
+- [MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - About A
+  chrome extension for suspending all tabs to free up memory, based on the
+  original TGS 7.1.6, without tracking. Find more information about that on
+  `https://gioxx.org/tms`
