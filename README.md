@@ -8,6 +8,7 @@ A collection of awesome things.
   - [Zsh](#zsh)
 - [React](#react)
   - [React Components](#react-components)
+- [Chrome DevTools](#chrome-devtools)
 
 ---
 
