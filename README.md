@@ -8,13 +8,16 @@ A collection of awesome things.
   - [Zsh](#zsh)
 - [React](#react)
   - [React Components](#react-components)
-- [Chrome DevTools](#chrome-devtools)
+- [Chrome](#chrome)
+  - [Chrome DevTools](#chrome-devtools)
+- [MacOS](#macos)
+  - [Extension](#extension)
 
 ---
 
 ## Node.js
 
-> Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+> Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine
 
 ### Command-line apps
 
@@ -24,9 +27,6 @@ A collection of awesome things.
   multiple npm-scripts in parallel or sequential
 
 ## Terminal
-
-> A terminal can mean either a computer or other electronic terminal, such as
-> one used with a POS system.
 
 ### Zsh
 
@@ -51,9 +51,18 @@ A collection of awesome things.
 - [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your
   component, image or anything matters the performance
 
-## Chrome DevTools
+## Chrome
+
+### Chrome DevTools
 
 - [MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - About A
   chrome extension for suspending all tabs to free up memory, based on the
   original TGS 7.1.6, without tracking. Find more information about that on
   `https://gioxx.org/tms`
+
+## MacOS
+
+### Extension
+
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) -
+  Mac 微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat) Topics
