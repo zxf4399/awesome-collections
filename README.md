@@ -23,6 +23,8 @@ A collection of awesome things.
 
 - [cpx](https://github.com/mysticatea/cpx) - A cli tool to watch and copy file
   globs
+- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A command-line system
+  information tool written in bash 3.2+
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run
   multiple npm-scripts in parallel or sequential
 
