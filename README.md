@@ -2,16 +2,20 @@
 
 A collection of awesome things.
 
-- [Node.js](#node.js)
-  - [Command-line apps](#command-line-apps)
-- [Terminal](#terminal)
-  - [Zsh](#zsh)
-- [React](#react)
-  - [React Components](#react-components)
-- [Chrome](#chrome)
-  - [Chrome DevTools](#chrome-devtools)
-- [MacOS](#macos)
-  - [Extension](#extension)
+<!-- vim-markdown-toc GFM -->
+
+* [Node.js](#nodejs)
+  * [Command-line apps](#command-line-apps)
+* [Terminal](#terminal)
+  * [Zsh](#zsh)
+* [React](#react)
+  * [React Components](#react-components)
+* [Chrome](#chrome)
+  * [Chrome DevTools](#chrome-devtools)
+* [MacOS](#macos)
+  * [Extension](#extension)
+
+<!-- vim-markdown-toc -->
 
 ---
 
