@@ -13,6 +13,7 @@ A collection of awesome things.
 * [Chrome](#chrome)
   * [Chrome DevTools](#chrome-devtools)
 * [MacOS](#macos)
+  * [Video](#video)
   * [Extension](#extension)
 
 <!-- vim-markdown-toc -->
@@ -67,6 +68,10 @@ A collection of awesome things.
   `https://gioxx.org/tms`
 
 ## MacOS
+
+### Video
+
+- [IINA](https://github.com/iina/iina) - The modern video player for macOS
 
 ### Extension
 
