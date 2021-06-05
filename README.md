@@ -13,8 +13,9 @@ A collection of awesome things.
 * [Chrome](#chrome)
   * [Chrome DevTools](#chrome-devtools)
 * [MacOS](#macos)
-  * [Video](#video)
   * [Extension](#extension)
+  * [Video](#video)
+  * [Window Management](#window-management)
 
 <!-- vim-markdown-toc -->
 
@@ -69,11 +70,15 @@ A collection of awesome things.
 
 ## MacOS
 
-### Video
-
-- [IINA](https://github.com/iina/iina) - The modern video player for macOS
-
 ### Extension
 
 - [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) -
   Mac 微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat) Topics
+
+### Video
+
+- [IINA](https://github.com/iina/iina) - The modern video player for macOS
+
+### Window Management
+
+- [yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
